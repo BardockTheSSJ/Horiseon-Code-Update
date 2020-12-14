@@ -4,10 +4,13 @@
     margin: 0;
 }
 
+
+/* Background/Body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +18,7 @@ body {
     color: #ffffff;
 }
 
+/*Visible Website Title*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +28,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +37,7 @@ body {
     font-size: 20px;
 }
 
+/*Nav Bar*/
 .header div ul {
     list-style-type: none;
 }
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero/Jumbotron*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +66,7 @@ p {
     background-position: center;
 }
 
+/*Left and Right floats for What Horiseon Does Section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/*What Horiseon Does*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Benefits Column*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +144,7 @@ p {
     max-width: 150px;
 }
 
+/*Search Engine Section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +154,7 @@ p {
     color: #ffffff;
 }
 
+/*Reputation Section*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +164,7 @@ p {
     color: #ffffff;
 }
 
+/*Social Media Section*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +201,7 @@ p {
     font-size: 36px;
 }
 
+/*footer*/
 .footer {
     padding: 30px;
     clear: both;
